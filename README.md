@@ -1,5 +1,5 @@
-# Loan-Repayment-Dashboard
-Deep Dive Analysis on Loan Repayment 
+# Deep Dive Analysis on Loan Repayment 
+
 Objective: The objective of this Loan Repayment Dashboard is to provide a detailed, data-driven analysis of loan distribution, customer demographics, repayment patterns, and overall loan performance. It is designed to track key performance metrics, identify trends, and highlight areas of risk related to late payments and loan collections. The dashboard serves as a comprehensive tool for managing loan portfolios and improving decision-making by offering insights into customer behavior and repayment outcomes.
 
 Key Metrics and Findings:
